@@ -6,7 +6,8 @@ Here is a little about me:
 
 - 🔭 I’m currently working on **awesome-neovim**, **recblock**, **kitwacc**, and **network_programming**
 - 🌱 I’m currently learning **Project Management**, **Data Science**, **Database Engineering**, and **Cloud Computing**
-- 👯 I’m looking to collaborate on **Zig**, **C/C++**, **Go**, **Lua** and **Python** projects
+- 👯 I’m looking to collaborate on **Zig**, <img src="https://github.com/Ultra-Code/Ultra-Code/assets/22438427/6318b606-5568-4d3a-86fe-61f3e5c50fc5" alt="c" height="40"/>/C++**, **Go**, **Lua** and **Python** projects
+-   
 - 🤔 I’m looking for help with getting my hands dirty with some interesting rust projects
 - 💬 Ask me any technical question and we might have a blast 🔥
 - 📫 How to reach me: **_@mega.alpha_** on _discord_ and **_@themalpha_** on _telegram_
