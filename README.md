@@ -14,7 +14,9 @@ Here is a little about me:
 
 ## Languages and Tools
 
- ![c++](https://github.com/Ultra-Code/Ultra-Code/assets/22438427/155d5c06-3b6e-41fb-b760-c687c3116864)
+ <div>
+  <img src="https://github.com/Ultra-Code/Ultra-Code/assets/22438427/155d5c06-3b6e-41fb-b760-c687c3116864" alt="c++" height="25" width="25"/>
+ </div>
  
 ## Stats
 
