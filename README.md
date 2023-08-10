@@ -12,7 +12,7 @@ Here is a little about me:
 - 📫 How to reach me: **_@mega.alpha_** on _discord_ and **_@themalpha_** on _telegram_
 - ⚡ Fun fact: I love **systems programming** and am interested in learning more about **graphics programming**, **compiler development**, and **WebAssembly**
 
-![github stats](https://github-readme-stats.vercel.app/api?username=Ultra-Code&show_icons=true&theme=gruvbox)
+![github stats](https://github-readme-stats.vercel.app/api?username=Ultra-Code&show_icons=true&theme=default)
 
 ![top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=Ultra-Code&show_icons=true&theme=default)
 
