@@ -7,10 +7,10 @@ Here is a little about me:
 - 🔭 I’m currently working on [**awesome-neovim**](https://github.com/Ultra-Code/awesome-neovim), [**recblock**](https://github.com/Ultra-Code/recblock), [**kitwacc**](https://github.com/Ultra-Code/kitwacc), and [**network_programming**](https://github.com/Ultra-Code/network_programming)
 - 🌱 I’m currently learning **Project Management**, **Data Science**, **Database Engineering**, and **Cloud Computing**
 - 👯 I’m looking to collaborate on **Zig**, **C/C++**, **Go**, **Lua**, and **Python** projects. 
-- 🤔 I’m looking for help with learning and getting my hands dirty with some interesting **rust** projects
+- 🤔 I’m looking for help with learning and getting my hands dirty with some interesting **Rust** projects
 - 💬 Ask me any technical question and we might have a blast 🔥
 - 📫 How to reach me: [**_@mega.alpha_**](https://discord.com/users/760132467931217921) on _discord_, [**_@themalpha_**](https://t.me/themalpha) on _telegram_ and <img src="https://github.com/Ultra-Code/Ultra-Code/assets/22438427/83e40bf1-07f0-4d59-b60e-ba0d085be735" alt="bernardassan.me" height="35"/> [website](https://rebrand.ly/BernardAssan)
-- ⚡ Fun fact: I love **systems programming** and am interested in learning more about **graphics programming**, **compiler development**, and **WebAssembly**
+- ⚡ Fun fact: I love **Systems Programming** and am interested in learning more about **Graphics Programming**, **Compiler Development**, and **WebAssembly**
 
 ## Languages & Tools
 <div>
