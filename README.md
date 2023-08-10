@@ -1,15 +1,15 @@
-<img height="300" style="width:100%" src="https://github.com/Ultra-Code/Ultra-Code/assets/22438427/8ff0705a-65dd-4197-81b5-b8ffd2befe0c" alt="Born To Learn Grow">
+<img height="330" style="width:100%" src="https://github.com/Ultra-Code/Ultra-Code/assets/22438427/8ff0705a-65dd-4197-81b5-b8ffd2befe0c" alt="Born To Learn Grow">
 
 ### Hi 👋 there, I'm ✨ _Ultra-Code_ ✨
 
 Here is a little about me:
 
-- 🔭 I’m currently working on awesome-neovim, recblock, kitwacc, and network_programming
-- 🌱 I’m currently learning Project Management, Data Science, Database Engineering, and Cloud Computing
-- 👯 I’m looking to collaborate on Zig, C/C++, Go, Lua and Python projects
+- 🔭 I’m currently working on **awesome-neovim**, **recblock**, **kitwacc**, and **network_programming**
+- 🌱 I’m currently learning **Project Management**, **Data Science**, **Database Engineering**, and **Cloud Computing**
+- 👯 I’m looking to collaborate on **Zig**, **C/C++**, **Go**, **Lua** and **Python** projects
 - 🤔 I’m looking for help with getting my hands dirty with some interesting rust projects
 - 💬 Ask me any technical question and we might have a blast 🔥
-- 📫 How to reach me: _@mega.alpha_ on **discord** and _@themalpha_ on **telegram**
+- 📫 How to reach me: **_@mega.alpha_** on **discord** and **_@themalpha_** on **telegram**
 - ⚡ Fun fact: ...
 
 <!--
