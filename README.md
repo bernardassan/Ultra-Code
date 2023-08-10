@@ -1,6 +1,6 @@
 <img height="330" width="100%" style="border-radius:25px;" src="https://github.com/Ultra-Code/Ultra-Code/assets/22438427/8ff0705a-65dd-4197-81b5-b8ffd2befe0c" alt="Born To Learn & Grow">
 
-### Hi 👋 there, I'm ✨ _Ultra-Code_ ✨
+# Hi 👋 there, I'm ✨ _Ultra-Code_ ✨
 
 Here is a little about me:
 
@@ -14,9 +14,9 @@ Here is a little about me:
   
 ### Stats
 
-![github stats](https://github-readme-stats.vercel.app/api?username=Ultra-Code&show_icons=true&theme=default)
-
 ![top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=Ultra-Code&show_icons=true&theme=default)
+
+![github stats](https://github-readme-stats.vercel.app/api?username=Ultra-Code&show_icons=true&theme=gruvbox)
 
 <!--
 **Ultra-Code/Ultra-Code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
