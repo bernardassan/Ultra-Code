@@ -6,11 +6,21 @@ Here is a little about me:
 
 - 🔭 I’m currently working on **awesome-neovim**, **recblock**, **kitwacc**, and **network_programming**
 - 🌱 I’m currently learning **Project Management**, **Data Science**, **Database Engineering**, and **Cloud Computing**
-- 👯 I’m looking to collaborate on <img src="https://github.com/Ultra-Code/Ultra-Code/assets/22438427/2b7a3b75-32aa-4da4-a317-7c526c53a830" alt="zig" height="25"/>, <img src="https://github.com/Ultra-Code/Ultra-Code/assets/22438427/6318b606-5568-4d3a-86fe-61f3e5c50fc5" alt="c" height="25"/>/<img src="https://github.com/Ultra-Code/Ultra-Code/assets/22438427/155d5c06-3b6e-41fb-b760-c687c3116864" alt="c++" height="25"/>, <img src="https://github.com/Ultra-Code/Ultra-Code/assets/22438427/b74313d4-3f89-48f4-8979-8b0245155ff7" alt="go" height="25"/>, <img src="https://github.com/Ultra-Code/Ultra-Code/assets/22438427/634c9d8b-3d2f-4451-b1d0-ac3baf3570f0" alt="lua" height="25"/> and <img src="https://github.com/Ultra-Code/Ultra-Code/assets/22438427/bacae497-c3dc-4242-90af-6edbac71aaf7" alt="python" height="25"/> projects. 
-- 🤔 I’m looking for help with getting my hands dirty with some interesting rust projects
+- 👯 I’m looking to collaborate on **Zig**, **C/C++**, **Go**, **Lua**, and **Python** projects. 
+- 🤔 I’m looking for help with learning getting my hands dirty with some interesting **rust** projects
 - 💬 Ask me any technical question and we might have a blast 🔥
 - 📫 How to reach me: **_@mega.alpha_** on _discord_ and **_@themalpha_** on _telegram_
 - ⚡ Fun fact: I love **systems programming** and am interested in learning more about **graphics programming**, **compiler development**, and **WebAssembly**
+  
+## Languages & Tools
+<div>
+<img src="https://github.com/Ultra-Code/Ultra-Code/assets/22438427/2b7a3b75-32aa-4da4-a317-7c526c53a830" alt="zig" height="25"/>,
+<img src="https://github.com/Ultra-Code/Ultra-Code/assets/22438427/6318b606-5568-4d3a-86fe-61f3e5c50fc5" alt="c" height="25"/>
+<img src="https://github.com/Ultra-Code/Ultra-Code/assets/22438427/155d5c06-3b6e-41fb-b760-c687c3116864" alt="c++" height="25"/>
+<img src="https://github.com/Ultra-Code/Ultra-Code/assets/22438427/b74313d4-3f89-48f4-8979-8b0245155ff7" alt="go" height="25"/>
+<img src="https://github.com/Ultra-Code/Ultra-Code/assets/22438427/634c9d8b-3d2f-4451-b1d0-ac3baf3570f0" alt="lua" height="25"/>
+<img src="https://github.com/Ultra-Code/Ultra-Code/assets/22438427/bacae497-c3dc-4242-90af-6edbac71aaf7" alt="python" height="25"/>
+ </div>
  
 ## Stats
 
