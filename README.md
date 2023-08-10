@@ -16,7 +16,7 @@ Here is a little about me:
 
 ![top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=Ultra-Code&show_icons=true&theme=default)
 
-![github stats](https://github-readme-stats.vercel.app/api?username=Ultra-Code&show_icons=true&theme=gruvbox)
+![github stats](https://github-readme-stats.vercel.app/api?username=Ultra-Code&show_icons=true&theme=default)
 
 <!--
 **Ultra-Code/Ultra-Code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
