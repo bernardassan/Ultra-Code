@@ -4,7 +4,7 @@
 
 Here is a little about me:
 
-- 🔭 I’m currently working on **awesome-neovim**, **recblock**, **kitwacc**, and **network_programming**
+- 🔭 I’m currently working on [**awesome-neovim**](https://github.com/Ultra-Code/awesome-neovim), [**recblock**(https://github.com/Ultra-Code/recblock), [**kitwacc**](https://github.com/Ultra-Code/kitwacc), and [**network_programming**](https://github.com/Ultra-Code/network_programming)
 - 🌱 I’m currently learning **Project Management**, **Data Science**, **Database Engineering**, and **Cloud Computing**
 - 👯 I’m looking to collaborate on **Zig**, **C/C++**, **Go**, **Lua**, and **Python** projects. 
 - 🤔 I’m looking for help with learning and getting my hands dirty with some interesting **rust** projects
