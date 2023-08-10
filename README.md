@@ -1,4 +1,4 @@
-<img height="480" style="width:100%" src="https://github.com/Ultra-Code/Ultra-Code/assets/22438427/8ff0705a-65dd-4197-81b5-b8ffd2befe0c" alt="Born To Learn Grow">
+<img height="300" style="width:100%" src="https://github.com/Ultra-Code/Ultra-Code/assets/22438427/8ff0705a-65dd-4197-81b5-b8ffd2befe0c" alt="Born To Learn Grow">
 
 ### Hi 👋 there, I'm ✨ _Ultra-Code_ ✨
 
