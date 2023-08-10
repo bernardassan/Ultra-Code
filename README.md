@@ -14,6 +14,7 @@ Here is a little about me:
   
 ## Stats
 
+<div>
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&show_icons=true&theme=dark"
@@ -25,7 +26,9 @@ Here is a little about me:
   />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ultra-Code&show_icons=true" />
 </picture>
+</div>
 
+<div>
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=Ultra-Code&show_icons=true&theme=dark"
@@ -37,6 +40,7 @@ Here is a little about me:
   />
   <img src="https://github-readme-stats.vercel.app/api?username=Ultra-Code&show_icons=true" />
 </picture>
+</div>
 
 <!--
 **Ultra-Code/Ultra-Code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
