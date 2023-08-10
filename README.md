@@ -1,6 +1,6 @@
 <img src="https://github.com/Ultra-Code/Ultra-Code/assets/22438427/8ff0705a-65dd-4197-81b5-b8ffd2befe0c" alt="Born To Learn & Grow" height="330" width="100%">
 
-# Hi 👋 there, I'm ✨ _Ultra-Code_ ✨
+# Hi 👋 there, I'm ✨ _Bernard Assan_ ✨
 
 Here is a little about me:
 
@@ -9,7 +9,7 @@ Here is a little about me:
 - 👯 I’m looking to collaborate on **Zig**, **C/C++**, **Go**, **Lua**, and **Python** projects. 
 - 🤔 I’m looking for help with learning and getting my hands dirty with some interesting **rust** projects
 - 💬 Ask me any technical question and we might have a blast 🔥
-- 📫 How to reach me: **_@mega.alpha_** on _discord_ and **_@themalpha_** on _telegram_
+- 📫 How to reach me: **_@mega.alpha_** on _discord_, **_@themalpha_** on _telegram_ and [<img align=”left” alt=”bernardassan.me” width=”22px” src=”https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] [website][https://rebrand.ly/BernardAssan]
 - ⚡ Fun fact: I love **systems programming** and am interested in learning more about **graphics programming**, **compiler development**, and **WebAssembly**
   
 ## Languages & Tools
