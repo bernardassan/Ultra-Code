@@ -9,7 +9,7 @@ Here is a little about me:
 - 👯 I’m looking to collaborate on **Zig**, **C/C++**, **Go**, **Lua** and **Python** projects
 - 🤔 I’m looking for help with getting my hands dirty with some interesting rust projects
 - 💬 Ask me any technical question and we might have a blast 🔥
-- 📫 How to reach me: **_@mega.alpha_** on **discord** and **_@themalpha_** on **telegram**
+- 📫 How to reach me: **_@mega.alpha_** on _discord_ and **_@themalpha_** on _telegram_
 - ⚡ Fun fact: ...
 
 <!--
