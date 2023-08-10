@@ -12,6 +12,10 @@ Here is a little about me:
 - 📫 How to reach me: **_@mega.alpha_** on _discord_ and **_@themalpha_** on _telegram_
 - ⚡ Fun fact: I love **systems programming** and am interested in learning more about **graphics programming**, **compiler development**, and **WebAssembly**
 
+![github stats](https://github-readme-stats.vercel.app/api?username=Ultra-Code&show_icons=true&theme=gruvbox)
+
+![top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=Ultra-Code&show_icons=true&theme=radical)
+
 <!--
 **Ultra-Code/Ultra-Code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
