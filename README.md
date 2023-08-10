@@ -9,7 +9,7 @@ Here is a little about me:
 - 👯 I’m looking to collaborate on **Zig**, **C/C++**, **Go**, **Lua**, and **Python** projects. 
 - 🤔 I’m looking for help with learning and getting my hands dirty with some interesting **rust** projects
 - 💬 Ask me any technical question and we might have a blast 🔥
-- 📫 How to reach me: **_@mega.alpha_** on _discord_, **_@themalpha_** on _telegram_ and <img src=”https://github.com/Ultra-Code/Ultra-Code/assets/22438427/83e40bf1-07f0-4d59-b60e-ba0d085be735" alt=”bernardassan.me” height="25">
+- 📫 How to reach me: **_@mega.alpha_** on _discord_, **_@themalpha_** on _telegram_ and <a href="https://rebrand.ly/BernardAssan"><img src="https://github.com/Ultra-Code/Ultra-Code/assets/22438427/83e40bf1-07f0-4d59-b60e-ba0d085be735" alt="bernardassan.me" height="25"></a>
 - ⚡ Fun fact: I love **systems programming** and am interested in learning more about **graphics programming**, **compiler development**, and **WebAssembly**
 
 ## Languages & Tools
