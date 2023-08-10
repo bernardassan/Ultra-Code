@@ -15,8 +15,8 @@ Here is a little about me:
 ## Languages and Tools
 
  <div>
-  <img src="https://github.com/Ultra-Code/Ultra-Code/assets/22438427/155d5c06-3b6e-41fb-b760-c687c3116864" alt="c++" height="45" width="45"/>
-  <img src="https://github.com/Ultra-Code/Ultra-Code/assets/22438427/6318b606-5568-4d3a-86fe-61f3e5c50fc5" alt="c" height="40" width="45"/>
+  <img src="https://github.com/Ultra-Code/Ultra-Code/assets/22438427/155d5c06-3b6e-41fb-b760-c687c3116864" alt="c++" height="45"/>
+  <img src="https://github.com/Ultra-Code/Ultra-Code/assets/22438427/6318b606-5568-4d3a-86fe-61f3e5c50fc5" alt="c" height="40"/>
 
  </div>
  
