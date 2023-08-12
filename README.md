@@ -13,7 +13,7 @@
 - 🤔 I’m looking for help with learning and getting my hands dirty with some interesting **Rust** projects
 - 💬 Ask me any question and we might have a laugh/blast 🔥 and learn in the process
 - 📫 How to reach me: [**_@mega.alpha_**](https://discord.com/users/760132467931217921) on _discord_, [**_@themalpha_**](https://t.me/themalpha) on _telegram_ and <img src="https://github.com/Ultra-Code/Ultra-Code/assets/22438427/83e40bf1-07f0-4d59-b60e-ba0d085be735" alt="bernardassan.me" height="35"/> [website](https://rebrand.ly/BernardAssan)
-- 📄 Know about my experiences [reband.ly/BernardAssan](reband.ly/BernardAssan)
+- 📄 Know about my experiences [reband.ly/BernardAssan](https://reband.ly/BernardAssan)
 - ⚡ Fun fact: I love **Systems Programming** and am interested in learning more about **Graphics Programming**, **Compiler Development**, and **WebAssembly**
 
 ## Connect with me
@@ -27,13 +27,15 @@
 </p>
 
 ## 🛠️ Languages & Tools
+ 
+ 
 
-<p align="left"> 
- <a href="https://ziglang.com/" target="_blank"><img src="https://github.com/Ultra-Code/Ultra-Code/assets/22438427/2b7a3b75-32aa-4da4-a317-7c526c53a830" alt="zig" width="40" height="40"/>&nbsp;</a>
+<p align="left">
+ <a href="https://ziglang.com/" target="_blank" rel="noreferrer"><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/22438427/259833635-2b7a3b75-32aa-4da4-a317-7c526c53a830.jpg" alt="zig" width="40" height="40"/>&nbsp;</a>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>&nbsp</a> 
- <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://github.com/Ultra-Code/Ultra-Code/assets/22438427/155d5c06-3b6e-41fb-b760-c687c3116864" alt="C++" width="40" height="40"/>&nbsp</a> 
+ <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/22438427/260244837-7d7b321f-7e90-4882-81f8-32f27a7d15b3.png" alt="C++" width="40" height="40"/>&nbsp</a> 
    <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>&nbsp</a> 
- <a href="https://www.lua.org/" target="_blank"><img src="https://github.com/Ultra-Code/Ultra-Code/assets/22438427/634c9d8b-3d2f-4451-b1d0-ac3baf3570f0" alt="Lua" width="40" height="40"/>&nbsp;</a>
+ <a href="https://www.lua.org/" target="_blank"><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/22438427/259832738-634c9d8b-3d2f-4451-b1d0-ac3baf3570f0.png" alt="Lua" width="40" height="40"/>&nbsp;</a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>&nbsp</a> 
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>&nbsp</a> 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>&nbsp</a>
