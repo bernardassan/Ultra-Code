@@ -1,4 +1,4 @@
-<img src="https://github.com/Ultra-Code/Ultra-Code/assets/22438427/8ff0705a-65dd-4197-81b5-b8ffd2befe0c" alt="Born To Learn & Grow" height="330" width="100%">
+<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/22438427/259785274-8ff0705a-65dd-4197-81b5-b8ffd2befe0c.png" alt="Born To Learn & Grow" height="300" width="100%">
 
 <h1 align="center"> Hi 👋 there, I'm ✨ <i>Bernard Assan</i> ✨</h1>
 <h3 align="center">A passionate Software Engineer</h3>
@@ -12,7 +12,7 @@
 - 👯 I’m looking to collaborate on **Zig**, **C/C++**, **Go**, **Lua**, and **Python** projects. 
 - 🤔 I’m looking for help with learning and getting my hands dirty with some interesting **Rust** projects
 - 💬 Ask me any question and we might have a laugh/blast 🔥 and learn in the process
-- 📫 How to reach me: [**_@mega.alpha_**](https://discord.com/users/760132467931217921) on _discord_, [**_@themalpha_**](https://t.me/themalpha) on _telegram_ and <img src="https://github.com/Ultra-Code/Ultra-Code/assets/22438427/83e40bf1-07f0-4d59-b60e-ba0d085be735" alt="bernardassan.me" height="35"/> [website](https://rebrand.ly/BernardAssan)
+- 📫 How to reach me: [**_@mega.alpha_**](https://discord.com/users/760132467931217921) on _discord_, [**_@themalpha_**](https://t.me/themalpha) on _telegram_ and <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/22438427/259840447-83e40bf1-07f0-4d59-b60e-ba0d085be735.png" alt="bernardassan.me" height="35"/> [website](https://rebrand.ly/BernardAssan)
 - 📄 Know about my experiences [reband.ly/BernardAssan](https://reband.ly/BernardAssan)
 - ⚡ Fun fact: I love **Systems Programming** and am interested in learning more about **Graphics Programming**, **Compiler Development**, and **WebAssembly**
 
