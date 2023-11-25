@@ -1,4 +1,12 @@
-<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/22438427/259785274-8ff0705a-65dd-4197-81b5-b8ffd2befe0c.png" alt="Born To Learn & Grow" height="300" width="100%">
+<h1 align="center">
+<picture >
+ <source srcset="born-to-learn.avif">
+ <source srcset="born-to-learn.webp">
+  <!--original image src="https://github-production-user-asset-6210df.s3.amazonaws.com/22438427/259785274-8ff0705a-65dd-4197-81b5-b8ffd2befe0c.png"-->
+ <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/22438427/285618866-f2764aeb-797a-488d-bc9d-13c8b9357650.png"
+ alt="Born To Learn & Grow" height="350" width="70%">
+</picture>
+</h1>
 
 <h1 align="center"> Hi 👋 there, I'm ✨ <i>Bernard Assan</i> ✨</h1>
 <h3 align="center">A passionate Software Engineer</h3>
