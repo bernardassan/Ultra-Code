@@ -21,7 +21,7 @@
 - 🤔 I’m looking for help with learning and getting my hands dirty with some interesting **Rust** projects
 - 💬 Ask me any question and we might have a laugh/blast 🔥 and learn in the process
 - 📫 How to reach me: [**_@mega.alpha_**](https://discord.com/users/760132467931217921) on _discord_, [**_@themalpha_**](https://t.me/themalpha) on _telegram_ and <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/22438427/259840447-83e40bf1-07f0-4d59-b60e-ba0d085be735.png" alt="bernardassan.me" height="35"/> [website](https://rebrand.ly/BernardAssan)
-- 📄 Know about my experiences [reband.ly/BernardAssan](https://reband.ly/BernardAssan)
+- 📄 Know about my experiences [rebrand.ly/BernardAssan](https://rebrand.ly/BernardAssan)
 - ⚡ Fun fact: I love **Systems Programming** and am interested in learning more about **Graphics Programming**, **Compiler Development**, and **WebAssembly**
 
 ## Connect with me
