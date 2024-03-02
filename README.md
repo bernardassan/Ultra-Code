@@ -17,7 +17,7 @@
 
 - 🔭 I’m currently working on [**awesome-neovim**](https://github.com/Ultra-Code/awesome-neovim), [**recblock**](https://github.com/Ultra-Code/recblock), [**kitwacc**](https://github.com/Ultra-Code/kitwacc), and [**network_programming**](https://github.com/Ultra-Code/network_programming)
 - 🌱 I’m currently learning **Project Management**, **Data Science**, **Database Engineering**, and **Cloud Computing**
-- 👯 I’m looking to collaborate on **Zig**, **C/C++**, **Go**, **Lua**, and **Python** projects. 
+- 👯 I’m looking to collaborate on **Zig**, **Rust**, **C/C++**, **Go**, **Lua**, and **Python** projects. 
 - 🤔 I’m looking for help with learning and getting my hands dirty with some interesting **Rust** projects
 - 💬 Ask me any question and we might have a laugh/blast 🔥 and learn in the process
 - 📫 How to reach me: [**_@mega.alpha_**](https://discord.com/users/760132467931217921) on _discord_, [**_@themalpha_**](https://t.me/themalpha) on _telegram_ and <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/22438427/259840447-83e40bf1-07f0-4d59-b60e-ba0d085be735.png" alt="bernardassan.me" height="35"/> [website](https://rebrand.ly/BernardAssan)
