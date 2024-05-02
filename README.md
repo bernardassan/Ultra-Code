@@ -65,7 +65,7 @@
 ## 🔥 Stats
 
 <div>
-<picture>
+<!--<picture>
   <source
     srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=Ultra-Code&size_weight=0.3&count_weight=0.7&show_icons=true&theme=dark&exclude_repo=datascience_exploration"
     media="(prefers-color-scheme: dark)"
@@ -75,7 +75,8 @@
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=Ultra-Code&size_weight=0.3&count_weight=0.7&show_icons=true&exclude_repo=datascience_exploration" />
-</picture>
+</picture>-->
+   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ultra-Code&size_weight=0.5&count_weight=0.5&exclude_repo=datascience_exploration,healthmanagement" />
 </div>
 <!--
 -->
