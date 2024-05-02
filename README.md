@@ -107,7 +107,7 @@
 </div>
  -->
  
-<div style="display: flex; justify-content: center;" align="center">  
+<div style="display: flex; justify-content: space-evenly;">  
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
