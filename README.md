@@ -70,13 +70,13 @@
 <picture>
   <source
    media="(prefers-color-scheme: dark)"
-   srcset="https://github-readme-stats.vercel.app/api/top-langs?username=Ultra-Code&show_icons=true&size_weight=0.5&count_weight=0.5&exclude_repo=datascience_exploration,healthmanagement&theme=dark"
+   srcset="https://github-readme-stats.vercel.app/api/top-langs?username=Ultra-Code&size_weight=0.5&count_weight=0.5&exclude_repo=datascience_exploration&hide=vue&theme=dark"
   />
   <source
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=Ultra-Code&show_icons=true&size_weight=0.5&count_weight=0.5&exclude_repo=datascience_exploration,healthmanagement"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=Ultra-Code&size_weight=0.5&count_weight=0.5&exclude_repo=datascience_exploration&hide=vue"
   />
- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ultra-Code&show_icons=true&size_weight=0.5&count_weight=0.5&exclude_repo=datascience_exploration,healthmanagement" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ultra-Code&size_weight=0.5&count_weight=0.5&exclude_repo=datascience_exploration&hide=vue" />
 </picture>
 </div>
 
