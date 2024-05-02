@@ -19,10 +19,11 @@
 - 🌱 I’m currently learning **Project Management**, **Data Science**, **Database Engineering**, and **Cloud Computing**
 - 👯 I’m looking to collaborate on **Zig**, **C**, **Rust**, **Lua**, and **Python** projects. 
 - 💬 Ask me any question and we might have a laugh/blast 🔥 and learn in the process
-- 📫 How to reach me: [**_@mega.alpha_**](https://discord.com/users/760132467931217921) on _discord_, [**_@themalpha_**](https://t.me/themalpha) on _telegram_ and <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/22438427/259840447-83e40bf1-07f0-4d59-b60e-ba0d085be735.png" alt="bernardassan.me" height="35"/> [website](https://rebrand.ly/BernardAssan)
+- 📫 How to reach me: [**_@mega.alpha_**](https://discord.com/users/760132467931217921) on _discord_, [**_@themalpha_**](https://t.me/themalpha) on _telegram_ and <img src="web icon.avif" alt="bernardassan.me" height="35"/> [website](https://rebrand.ly/BernardAssan)
 - 📄 Know about my experiences [rebrand.ly/BernardAssan](https://rebrand.ly/BernardAssan)
 - ⚡ Fun fact: I love **Systems Programming** and am interested in learning more about **Graphics Programming**, **Compiler Development**, and **WebAssembly**
 <!--- 🤔 I’m looking for help with learning and getting my hands dirty with some interesting **Rust** projects-->
+<!-- original web icon image https://github-production-user-asset-6210df.s3.amazonaws.com/22438427/259840447-83e40bf1-07f0-4d59-b60e-ba0d085be735.png-->
 ## Connect with me
 
 <p align="left">
@@ -111,7 +112,7 @@
  -->
  
 <div>
-<picture>
+<!--<picture>
   <source
     srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Ultra-Code&show_icons=true&theme=dark"
     media="(prefers-color-scheme: dark)"
@@ -120,8 +121,10 @@
     srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Ultra-Code&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Ultra-Code&show_icons=true" />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Ultra-Code&show_icons=true" />
 </picture>
+-->
+<img src="https://github-readme-stats.vercel.app/api?username=Ultra-Code&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
 </div>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ultra-code&" alt="ultra-code" /></p>
