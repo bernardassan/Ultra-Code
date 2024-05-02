@@ -130,6 +130,6 @@
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     srcset="https://github-readme-streak-stats.herokuapp.com/?user=ultra-code"
   />
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=ultra-code" alt="ultra-code"/>
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=ultra-code" alt="ultra-code" width="45%"//>
 </picture>
 </div>
