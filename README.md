@@ -65,6 +65,7 @@
 </p>
 
 ## 🔥 Stats
+<!-- https://bobbyhadz.com/blog/github-display-images-side-by-side-in-readme -->
 <div align="center">
  
 <picture>
