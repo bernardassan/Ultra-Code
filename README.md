@@ -65,21 +65,20 @@
 </p>
 
 ## 🔥 Stats
-
-<div>
+<div align="center">
+ 
 <picture>
   <source
    media="(prefers-color-scheme: dark)"
-   srcset="https://github-readme-stats.vercel.app/api/top-langs?username=Ultra-Code&size_weight=0.5&count_weight=0.5&exclude_repo=datascience_exploration&hide=vue&langs_count=10&layout=compact&theme=dark"
+   srcset="https://github-readme-stats.vercel.app/api/top-langs?username=Ultra-Code&size_weight=0.5&count_weight=0.5&exclude_repo=datascience_exploration&hide=vue&layout=compact&langs_count=10&theme=dark"
   />
   <source
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=Ultra-Code&size_weight=0.5&count_weight=0.5&exclude_repo=datascience_exploration&hide=vue&langs_count=10&layout=compact"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=Ultra-Code&size_weight=0.5&count_weight=0.5&exclude_repo=datascience_exploration&hide=vue&layout=compact&langs_count=10"
   />
- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ultra-Code&size_weight=0.5&count_weight=0.5&exclude_repo=datascience_exploration&hide=vue&langs_count=10&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ultra-Code&size_weight=0.5&count_weight=0.5&exclude_repo=datascience_exploration&hide=vue&layout=compact&langs_count=10" width="45%" height="50%"/>
 </picture>
 </div>
-
 <!--
      
 ## 🚀 Languages and Tools:
@@ -108,7 +107,7 @@
 </div>
  -->
  
-<div>
+<div style="display: flex; justify-content: center;" align="center">  
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -118,8 +117,19 @@
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     srcset="https://github-readme-stats.vercel.app/api?username=Ultra-Code&show_icons=true"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=Ultra-Code&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ultra-Code&show_icons=true"/>
+</picture>
+
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github-readme-streak-stats.herokuapp.com/?user=ultra-code&theme=dark"
+  />
+  <source
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    srcset="https://github-readme-streak-stats.herokuapp.com/?user=ultra-code"
+  />
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=ultra-code" alt="ultra-code"/>
 </picture>
 </div>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ultra-code" alt="ultra-code" /></p>
