@@ -70,13 +70,13 @@
 <picture>
   <source
    media="(prefers-color-scheme: dark)"
-   srcset="https://github-readme-stats.vercel.app/api/top-langs?username=Ultra-Code&size_weight=0.5&count_weight=0.5&exclude_repo=datascience_exploration&hide=vue&langs_count=9&layout=compact&theme=dark"
+   srcset="https://github-readme-stats.vercel.app/api/top-langs?username=Ultra-Code&size_weight=0.5&count_weight=0.5&exclude_repo=datascience_exploration&hide=vue&langs_count=10&layout=compact&theme=dark"
   />
   <source
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=Ultra-Code&size_weight=0.5&count_weight=0.5&exclude_repo=datascience_exploration&hide=vue&langs_count=9&layout=compact"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=Ultra-Code&size_weight=0.5&count_weight=0.5&exclude_repo=datascience_exploration&hide=vue&langs_count=10&layout=compact"
   />
- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ultra-Code&size_weight=0.5&count_weight=0.5&exclude_repo=datascience_exploration&hide=vue&langs_count=9&layout=compact" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ultra-Code&size_weight=0.5&count_weight=0.5&exclude_repo=datascience_exploration&hide=vue&langs_count=10&layout=compact" />
 </picture>
 </div>
 
@@ -122,4 +122,4 @@
 </picture>
 </div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ultra-code&" alt="ultra-code" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ultra-code" alt="ultra-code" /></p>
