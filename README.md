@@ -107,7 +107,7 @@
 </div>
  -->
  
-<div style="display: flex; justify-content: space-evenly;">  
+<div style="display: flex;">  
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -117,7 +117,7 @@
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     srcset="https://github-readme-stats.vercel.app/api?username=Ultra-Code&show_icons=true"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=Ultra-Code&show_icons=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Ultra-Code&show_icons=true" width="45%"/>
 </picture>
 
 
