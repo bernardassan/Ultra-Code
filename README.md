@@ -67,21 +67,18 @@
 ## 🔥 Stats
 
 <div>
-<!--<picture>
+<picture>
   <source
-    srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=Ultra-Code&size_weight=0.3&count_weight=0.7&show_icons=true&theme=dark&exclude_repo=datascience_exploration"
-    media="(prefers-color-scheme: dark)"
+   media="(prefers-color-scheme: dark)"
+   srcset="https://github-readme-stats.vercel.app/api/top-langs?username=Ultra-Code&show_icons=true&size_weight=0.5&count_weight=0.5&exclude_repo=datascience_exploration,healthmanagement&theme=dark"
   />
   <source
-    srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=Ultra-Code&size_weight=0.3&count_weight=0.7&show_icons=true&exclude_repo=datascience_exploration"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=Ultra-Code&show_icons=true&size_weight=0.5&count_weight=0.5&exclude_repo=datascience_exploration,healthmanagement"
   />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=Ultra-Code&size_weight=0.3&count_weight=0.7&show_icons=true&exclude_repo=datascience_exploration" />
-</picture>-->
-   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ultra-Code&size_weight=0.5&count_weight=0.5&exclude_repo=datascience_exploration,healthmanagement" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ultra-Code&show_icons=true&size_weight=0.5&count_weight=0.5&exclude_repo=datascience_exploration,healthmanagement" />
+</picture>
 </div>
-<!--
--->
 
 <!--
      
@@ -112,19 +109,17 @@
  -->
  
 <div>
-<!--<picture>
+<picture>
   <source
-    srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Ultra-Code&show_icons=true&theme=dark"
     media="(prefers-color-scheme: dark)"
+    srcset="https://github-readme-stats.vercel.app/api?username=Ultra-Code&show_icons=true&theme=dark"
   />
   <source
-    srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Ultra-Code&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    srcset="https://github-readme-stats.vercel.app/api?username=Ultra-Code&show_icons=true"
   />
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Ultra-Code&show_icons=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=Ultra-Code&show_icons=true" />
 </picture>
--->
-<img src="https://github-readme-stats.vercel.app/api?username=Ultra-Code&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
 </div>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ultra-code&" alt="ultra-code" /></p>
