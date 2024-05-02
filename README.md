@@ -117,7 +117,7 @@
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     srcset="https://github-readme-stats.vercel.app/api?username=Ultra-Code&show_icons=true"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=Ultra-Code&show_icons=true" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Ultra-Code&show_icons=true" width="46%"/>
 </picture>
 
 
@@ -130,6 +130,6 @@
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     srcset="https://github-readme-streak-stats.herokuapp.com/?user=ultra-code"
   />
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=ultra-code" alt="ultra-code" width="45%"//>
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=ultra-code" alt="ultra-code" width="48%"/>
 </picture>
 </div>
