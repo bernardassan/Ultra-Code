@@ -65,19 +65,49 @@
 ## 🔥 Stats
 
 <div>
-<!--<picture>
+<picture>
   <source
-    srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=Ultra-Code&show_icons=true&theme=dark"
+    srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=Ultra-Code&size_weight=0.3&count_weight=0.7&show_icons=true&theme=dark&exclude_repo=datascience_exploration"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=Ultra-Code&show_icons=true"
+    srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=Ultra-Code&size_weight=0.3&count_weight=0.7&show_icons=true&exclude_repo=datascience_exploration"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=Ultra-Code&show_icons=true" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=Ultra-Code&size_weight=0.3&count_weight=0.7&show_icons=true&exclude_repo=datascience_exploration" />
 </picture>
-</div>-->
+</div>
+<!--
+-->
 
+<!--
+     
+## 🚀 Languages and Tools:
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,go,zig,typescript,react,python,docker,linux,blender,unity,gitlab,postgres)](https://skillicons.dev)
+<p align="left">
+        
+
+## 📊 My Github Stats 🏆
+
+
+<p align="center">
+    <a href="https://github.com/Diogenesoftoronto/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Dio's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Diogenesoftoronto&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" width = "90%" />
+    </a>
+</p>
+
+
+
+<div style="display: flex; justify-content: center;" align="center"> 
+
+  [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/Diogenesoftoronto/langs?time_range=one_year&include_private=True&loc_metric=changed&theme=dark)](https://githubtrends.io)
+
+  <p>
+  Keep in mind these are public statistics and do not demonstrate my full capabilities.
+  </p>
+</div>
+ -->
+ 
 <div>
 <picture>
   <source
