@@ -28,7 +28,7 @@
 
 <p align="left">
 <a href="https://twitter.com/bernardassan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bernardassan" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/bernard-assan-a2744b254/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bernard-assan-a2744b254/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/bernardassan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bernard-assan-a2744b254/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/12007740/mega-alpha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/12007740/mega-alpha" height="30" width="40" /></a>
 <a href="https://kaggle.com/megaalpha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/megaalpha" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/bernardassan100" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="bernardassan100" height="30" width="40" /></a>
