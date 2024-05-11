@@ -47,6 +47,7 @@
 -->
 
 ## 🔥 Stats
+
 <!-- https://bobbyhadz.com/blog/github-display-images-side-by-side-in-readme -->
 <div style="display: flex; justify-content: center;" align="center">
  
@@ -54,18 +55,46 @@
  <!-- alternative to top-langs https://githubtrends.io -->
   <source
    media="(prefers-color-scheme: dark)"
-   srcset="https://github-readme-stats.vercel.app/api/top-langs?username=Ultra-Code&size_weight=0.5&count_weight=0.5&exclude_repo=datascience_exploration&hide=cmake&layout=compact&langs_count=10&theme=dark"
+   srcset="https://github-readme-stats.vercel.app/api/top-langs?username=Ultra-Code&size_weight=0.5&count_weight=0.5&exclude_repo=datascience_exploration&hide=cmake&layout=compact&langs_count=10&theme=dark&custom_title=Overall%20Language%20Statistics"
   />
   <source
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=Ultra-Code&size_weight=0.5&count_weight=0.5&exclude_repo=datascience_exploration&hide=cmake&layout=compact&langs_count=10"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=Ultra-Code&size_weight=0.5&count_weight=0.5&exclude_repo=datascience_exploration&hide=cmake&layout=compact&langs_count=10&custom_title=Overall%20Language%20Statistics"
   />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ultra-Code&size_weight=0.5&count_weight=0.5&exclude_repo=datascience_exploration&hide=cmake&layout=compact&langs_count=10" width="45%" height="50%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ultra-Code&size_weight=0.5&count_weight=0.5&exclude_repo=datascience_exploration&hide=cmake&layout=compact&langs_count=10&custom_title=Overall%20Language%20Statistics" width="45%"/>
 </picture>
 </div>
 
+<div style="display: flex; justify-content: space-around;">  
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://api.githubtrends.io/user/svg/Ultra-Code/langs?time_range=one_year&theme=dark"
+  />
+  <source
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    srcset="https://api.githubtrends.io/user/svg/Ultra-Code/langs?time_range=one_year&theme=classic"
+  />
+
+  <img align="center" src="https://api.githubtrends.io/user/svg/Ultra-Code/langs?time_range=one_year" alt="Language stats" width="45%"/>
+</picture>
+
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://api.githubtrends.io/user/svg/Ultra-Code/repos?time_range=one_year&group=other&theme=dark"
+  />
+  <source
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    srcset="https://api.githubtrends.io/user/svg/Ultra-Code/repos?time_range=one_year&group=other&theme=classic"
+  />
  
-<div style="display: flex;">  
+ <img align="center" src="https://api.githubtrends.io/user/svg/Ultra-Code/repos?time_range=one_year&group=other" alt="Repos stats" width="45%"/>
+</picture>
+</div>
+ 
+<div style="display: flex; justify-content: space-around;">  
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -75,7 +104,7 @@
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     srcset="https://github-readme-stats.vercel.app/api?username=Ultra-Code&show_icons=true"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=Ultra-Code&show_icons=true" width="46%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Ultra-Code&show_icons=true" width="45%"/>
 </picture>
 
 
@@ -88,6 +117,6 @@
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     srcset="https://github-readme-streak-stats.herokuapp.com/?user=ultra-code"
   />
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=ultra-code" alt="ultra-code" width="48%"/>
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=ultra-code" alt="ultra-code" width="47%"/>
 </picture>
 </div>
