@@ -20,7 +20,7 @@
 - 🔥 I have completed the following *Professional courses*
   - **Meta Database Engineering** [[**Certificate**](https://www.coursera.org/account/accomplishments/specialization/certificate/88ZTRDP6XSGY)]
   - **Google Project Management** [[**Certificate**](https://www.coursera.org/account/accomplishments/specialization/certificate/HN64WJBSVL8F)]
-- 👯 I’m looking to collaborate on **Zig**, **C**, **Rust**, **Lua**, and **Python** projects. 
+- 👯 I’m looking to collaborate on **Zig**, **C**, **Rust**, **C++**, **Python**, and **Lua** projects. 
 - 💬 Ask me any question and we might have a laugh/blast 🔥 and learn in the process
 - 📫 How to reach me: [**_@mega.alpha_**](https://discord.com/users/760132467931217921) on _discord_, [**_@themalpha_**](https://t.me/themalpha) on _telegram_ and <img src="web icon.avif" alt="bernardassan.me" height="35"/> [website](https://rebrand.ly/BernardAssan)
 - 📄 Know about my experiences [rebrand.ly/BernardAssan](https://rebrand.ly/BernardAssan)
@@ -39,7 +39,7 @@
 
 ## 🛠️ Languages & Tools
 
-![My Skills](https://skillicons.dev/icons?i=zig,c,rust,cpp,lua,linux,bash,git,github,docker,python,gcp,mysql,mongodb,postgres,js,typescript,vuejs,wasm)
+![My Skills](https://skillicons.dev/icons?i=zig,c,rust,cpp,python,lua,linux,bash,git,github,docker,gcp,mysql,mongodb,postgres,js,typescript,vuejs,wasm)
 <!--<p align="left">
 <a href="https://ziglang.com/" target="_blank" rel="noreferrer"><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/22438427/259833635-2b7a3b75-32aa-4da4-a317-7c526c53a830.jpg" alt="zig" width="40" height="40"/>&nbsp;</a>
 <a href="https://isocpp.org/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/22438427/260244837-7d7b321f-7e90-4882-81f8-32f27a7d15b3.png" alt="C++" width="40" height="40"/>&nbsp</a>
