@@ -15,13 +15,16 @@
 
 👨‍💻 Here is a little about me:
 
-- 🔭 I’m currently working on [**awesome-neovim**](https://github.com/Ultra-Code/awesome-neovim), [**recblock**](https://github.com/Ultra-Code/recblock), [**kitwacc**](https://github.com/Ultra-Code/kitwacc), and [**network_programming**](https://github.com/Ultra-Code/network_programming)
-- 🌱 I’m currently learning **Project Management**, **Data Science**, **Database Engineering**, and **Cloud Computing**
+- 🔭 I’m working on [**awesome-helix**](https://github.com/Ultra-Code/awesome-helix), [**recblock**](https://github.com/Ultra-Code/recblock), [**kitwacc**](https://github.com/Ultra-Code/kitwacc), and [**network_programming**](https://github.com/Ultra-Code/network_programming)
+- 🌱 I’m currently learning **Data Science** and **Cloud Computing**
+- 🔥 I have completed the following *Professional courses*
+  - **Meta Database Engineering** [[**Certificate**](https://www.coursera.org/account/accomplishments/specialization/certificate/88ZTRDP6XSGY)]
+  - **Google Project Management** [[**Certificate**](https://www.coursera.org/account/accomplishments/specialization/certificate/HN64WJBSVL8F)]
 - 👯 I’m looking to collaborate on **Zig**, **C**, **Rust**, **Lua**, and **Python** projects. 
 - 💬 Ask me any question and we might have a laugh/blast 🔥 and learn in the process
 - 📫 How to reach me: [**_@mega.alpha_**](https://discord.com/users/760132467931217921) on _discord_, [**_@themalpha_**](https://t.me/themalpha) on _telegram_ and <img src="web icon.avif" alt="bernardassan.me" height="35"/> [website](https://rebrand.ly/BernardAssan)
 - 📄 Know about my experiences [rebrand.ly/BernardAssan](https://rebrand.ly/BernardAssan)
-- ⚡ Fun fact: I love **Systems Programming** and am interested in learning more about **Graphics Programming**, **Compiler Development**, and **WebAssembly**
+- ⚡ Fun fact: I love **Systems Programming** and am interested in learning more about **Compiler Development**, **AI/ML**, **Graphics Programming**, and **WebAssembly**
 <!--- 🤔 I’m looking for help with learning and getting my hands dirty with some interesting **Rust** projects-->
 <!-- original web icon image https://github-production-user-asset-6210df.s3.amazonaws.com/22438427/259840447-83e40bf1-07f0-4d59-b60e-ba0d085be735.png-->
 ## Connect with me
@@ -36,7 +39,7 @@
 
 ## 🛠️ Languages & Tools
 
-![My Skills](https://skillicons.dev/icons?i=zig,c,cpp,rust,lua,linux,bash,git,github,docker,python,gcp,mysql,mongodb,postgres,js,typescript,vuejs,wasm)
+![My Skills](https://skillicons.dev/icons?i=zig,c,rust,cpp,lua,linux,bash,git,github,docker,python,gcp,mysql,mongodb,postgres,js,typescript,vuejs,wasm)
 <!--<p align="left">
 <a href="https://ziglang.com/" target="_blank" rel="noreferrer"><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/22438427/259833635-2b7a3b75-32aa-4da4-a317-7c526c53a830.jpg" alt="zig" width="40" height="40"/>&nbsp;</a>
 <a href="https://isocpp.org/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/22438427/260244837-7d7b321f-7e90-4882-81f8-32f27a7d15b3.png" alt="C++" width="40" height="40"/>&nbsp</a>
