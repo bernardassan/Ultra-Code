@@ -39,7 +39,7 @@
 
 ## 🛠️ Languages & Tools
 
-![My Skills](https://skillicons.dev/icons?i=zig,c,rust,cpp,python,lua,linux,bash,git,github,docker,gcp,mysql,mongodb,postgres,js,typescript,vuejs,wasm)
+![My Skills](https://skillicons.dev/icons?i=zig,c,rust,cpp,python,lua,linux,bash,git,github,docker,gcp,mysql,mongodb,postgres,wasm)
 <!--<p align="left">
 <a href="https://ziglang.com/" target="_blank" rel="noreferrer"><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/22438427/259833635-2b7a3b75-32aa-4da4-a317-7c526c53a830.jpg" alt="zig" width="40" height="40"/>&nbsp;</a>
 <a href="https://isocpp.org/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/22438427/260244837-7d7b321f-7e90-4882-81f8-32f27a7d15b3.png" alt="C++" width="40" height="40"/>&nbsp</a>
@@ -58,13 +58,13 @@
  <!-- alternative to top-langs https://githubtrends.io -->
   <source
    media="(prefers-color-scheme: dark)"
-   srcset="https://github-readme-stats.vercel.app/api/top-langs?username=Ultra-Code&size_weight=0.5&count_weight=0.5&exclude_repo=datascience_exploration&hide=cmake&layout=compact&langs_count=10&theme=dark&custom_title=Overall%20Language%20Statistics"
+   srcset="https://github-readme-stats.vercel.app/api/top-langs?username=Ultra-Code&size_weight=0.5&count_weight=0.5&exclude_repo=datascience_exploration&hide=vue&layout=compact&langs_count=10&theme=dark&custom_title=Overall%20Language%20Statistics"
   />
   <source
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=Ultra-Code&size_weight=0.5&count_weight=0.5&exclude_repo=datascience_exploration&hide=cmake&layout=compact&langs_count=10&custom_title=Overall%20Language%20Statistics"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=Ultra-Code&size_weight=0.5&count_weight=0.5&exclude_repo=datascience_exploration&hide=vue&layout=compact&langs_count=10&custom_title=Overall%20Language%20Statistics"
   />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ultra-Code&size_weight=0.5&count_weight=0.5&exclude_repo=datascience_exploration&hide=cmake&layout=compact&langs_count=10&custom_title=Overall%20Language%20Statistics" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ultra-Code&size_weight=0.5&count_weight=0.5&exclude_repo=datascience_exploration&hide=vue&layout=compact&langs_count=10&custom_title=Overall%20Language%20Statistics" width="45%"/>
 </picture>
 </div>
 
