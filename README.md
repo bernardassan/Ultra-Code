@@ -4,27 +4,29 @@
  <source srcset="born-to-learn.webp">
   <!--original image src="https://github-production-user-asset-6210df.s3.amazonaws.com/22438427/259785274-8ff0705a-65dd-4197-81b5-b8ffd2befe0c.png"-->
  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/22438427/285618866-f2764aeb-797a-488d-bc9d-13c8b9357650.png"
- alt="Born To Learn & Grow" height="350" width="80%">
+ alt="Born To Learn & Grow" height="330rem" width="54%">
 </picture>
 </h1>
 
-<h1 align="center"> Hi 👋 there, I'm ✨ <i>Bernard Assan</i> ✨</h1>
-<h3 align="center">A passionate Software Engineer</h3>
+<h1 align="center"> Akwaaba 👋, I'm ✨ <i>Bernard Assan</i> ✨</h1>
+<h3 align="center">A passionate Systems Engineer</h3>
 
 <p align="center"> <a href="https://twitter.com/bernardassan" target="blank"><img src="https://img.shields.io/twitter/follow/bernardassan?logo=twitter&style=for-the-badge" alt="bernardassan" /></a> </p>
 
-👨‍💻 Here is a little about me:
+👨‍💻 About me:
 
-- 🔭 I’m working on [**awesome-helix**](https://github.com/Ultra-Code/awesome-helix), [**recblock**](https://github.com/Ultra-Code/recblock), [**kitwacc**](https://github.com/Ultra-Code/kitwacc), and [**network_programming**](https://github.com/Ultra-Code/network_programming)
+- ⚡ I love **Systems Programming** and am interested in **Compiler Development**, **AI/ML**, **Linux Systems**, **Graphics Programming** and **WebAssembly**
+- 🔭 Currently working on [**recblock**](https://github.com/Ultra-Code/recblock), [**network programming**](https://github.com/Ultra-Code/network_programming), [**kitwacc**](https://github.com/Ultra-Code/kitwacc) and [**modernc**](https://github.com/Ultra-Code/modernc)
+<!-- 
 - 🌱 I’m currently learning **Data Science** and **Cloud Computing**
 - 🔥 I have completed the following *Professional courses*
   - **Meta Database Engineering** [[**Certificate**](https://www.coursera.org/account/accomplishments/specialization/certificate/88ZTRDP6XSGY)]
   - **Google Project Management** [[**Certificate**](https://www.coursera.org/account/accomplishments/specialization/certificate/HN64WJBSVL8F)]
-- 👯 I’m looking to collaborate on **Zig**, **C**, **Rust**, **C++**, **Python**, and **Lua** projects. 
-- 💬 Ask me any question and we might have a laugh/blast 🔥 and learn in the process
-- 📫 How to reach me: [**_@mega.alpha_**](https://discord.com/users/760132467931217921) on _discord_, [**_@themalpha_**](https://t.me/themalpha) on _telegram_ and <img src="web icon.avif" alt="bernardassan.me" height="35"/> [website](https://rebrand.ly/BernardAssan)
-- 📄 Know about my experiences [rebrand.ly/BernardAssan](https://rebrand.ly/BernardAssan)
-- ⚡ Fun fact: I love **Systems Programming** and am interested in learning more about **Compiler Development**, **AI/ML**, **Graphics Programming**, and **WebAssembly**
+ - 💬 Ask me any question and we might have a laugh/blast 🔥 and learn in the process
+ - 📄 Know about my experiences [rebrand.ly/BernardAssan](https://rebrand.ly/BernardAssan)
+ -->
+- 👯 Looking to collaborate on **Zig**, **C**, **Rust**, **C++**, **Python** and **Lua** projects. 
+- 📫 Reach me [**_@themalpha_**](https://t.me/themalpha) on _telegram_, [**_@mega.alpha_**](https://discord.com/users/760132467931217921) on _discord_ and <img src="web icon.avif" alt="bernardassan.me" height="35"/> [website](https://rebrand.ly/BernardAssan)
 <!--- 🤔 I’m looking for help with learning and getting my hands dirty with some interesting **Rust** projects-->
 <!-- original web icon image https://github-production-user-asset-6210df.s3.amazonaws.com/22438427/259840447-83e40bf1-07f0-4d59-b60e-ba0d085be735.png-->
 ## Connect with me
@@ -39,7 +41,7 @@
 
 ## 🛠️ Languages & Tools
 
-![My Skills](https://skillicons.dev/icons?i=zig,c,rust,cpp,python,lua,linux,bash,git,github,docker,gcp,mysql,mongodb,postgres,wasm)
+![My Skills](https://skillicons.dev/icons?i=zig,c,rust,cpp,python,lua,linux,bash,git,github,docker,gcp,mysql,mongodb,wasm)
 <!--<p align="left">
 <a href="https://ziglang.com/" target="_blank" rel="noreferrer"><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/22438427/259833635-2b7a3b75-32aa-4da4-a317-7c526c53a830.jpg" alt="zig" width="40" height="40"/>&nbsp;</a>
 <a href="https://isocpp.org/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/22438427/260244837-7d7b321f-7e90-4882-81f8-32f27a7d15b3.png" alt="C++" width="40" height="40"/>&nbsp</a>
@@ -72,28 +74,28 @@
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://api.githubtrends.io/user/svg/Ultra-Code/langs?time_range=one_year&theme=dark"
+    srcset="https://api.githubtrends.io/user/svg/Ultra-Code/langs?time_range=six_months&theme=dark"
   />
   <source
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    srcset="https://api.githubtrends.io/user/svg/Ultra-Code/langs?time_range=one_year&theme=classic"
+    srcset="https://api.githubtrends.io/user/svg/Ultra-Code/langs?time_range=six_months&theme=classic"
   />
 
-  <img align="center" src="https://api.githubtrends.io/user/svg/Ultra-Code/langs?time_range=one_year" alt="Language stats" width="45%"/>
+  <img align="center" src="https://api.githubtrends.io/user/svg/Ultra-Code/langs?time_range=six_months" alt="Language stats" width="45%"/>
 </picture>
 
 
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://api.githubtrends.io/user/svg/Ultra-Code/repos?time_range=one_year&group=other&theme=dark"
+    srcset="https://api.githubtrends.io/user/svg/Ultra-Code/repos?time_range=six_months&group=other&theme=dark"
   />
   <source
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    srcset="https://api.githubtrends.io/user/svg/Ultra-Code/repos?time_range=one_year&group=other&theme=classic"
+    srcset="https://api.githubtrends.io/user/svg/Ultra-Code/repos?time_range=six_months&group=other&theme=classic"
   />
  
- <img align="center" src="https://api.githubtrends.io/user/svg/Ultra-Code/repos?time_range=one_year&group=other" alt="Repos stats" width="45%"/>
+ <img align="center" src="https://api.githubtrends.io/user/svg/Ultra-Code/repos?time_range=six_months&group=other" alt="Repos stats" width="45%"/>
 </picture>
 </div>
  
