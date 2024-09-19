@@ -26,8 +26,9 @@
  - 📄 Know about my experiences [rebrand.ly/BernardAssan](https://rebrand.ly/BernardAssan)
  -->
 - 👯 Looking to collaborate on **Zig**, **C**, **Rust**, **C++**, **Python** and **Lua** projects. 
-- 📫 Reach me [**_@themalpha_**](https://t.me/themalpha) on _telegram_, [**_@mega.alpha_**](https://discord.com/users/760132467931217921) on _discord_ and <img src="web icon.avif" alt="bernardassan.me" height="35"/> [website](https://rebrand.ly/BernardAssan)
-<!--- 🤔 I’m looking for help with learning and getting my hands dirty with some interesting **Rust** projects-->
+- 📫 Reach me [**_@themalpha_**](https://t.me/themalpha) on _telegram_ and [**_@mega.alpha_**](https://discord.com/users/760132467931217921) on _discord_
+<!--- and <img src="web icon.avif" alt="bernardassan.me" height="35"/> [website](https://rebrand.ly/BernardAssan)
+ 🤔 I’m looking for help with learning and getting my hands dirty with some interesting **Rust** projects-->
 <!-- original web icon image https://github-production-user-asset-6210df.s3.amazonaws.com/22438427/259840447-83e40bf1-07f0-4d59-b60e-ba0d085be735.png-->
 ## Connect with me
 
