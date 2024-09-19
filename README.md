@@ -15,7 +15,7 @@
 
 👨‍💻 About me:
 
-- ⚡ I love **Systems Programming** and am interested in **Compiler Development**, **AI/ML**, **Linux Systems**, **Graphics Programming** and **WebAssembly**
+- ⚡ I love **Systems Programming** and am interested in **AI/ML**, **Compiler Development**, **Graphics Programming**  and **WebAssembly**
 - 🔭 Currently working on [**recblock**](https://github.com/Ultra-Code/recblock), [**network programming**](https://github.com/Ultra-Code/network_programming), [**kitwacc**](https://github.com/Ultra-Code/kitwacc) and [**modernc**](https://github.com/Ultra-Code/modernc)
 <!-- 
 - 🌱 I’m currently learning **Data Science** and **Cloud Computing**
