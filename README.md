@@ -4,7 +4,7 @@
  <source srcset="born-to-learn.webp">
   <!--original image src="https://github-production-user-asset-6210df.s3.amazonaws.com/22438427/259785274-8ff0705a-65dd-4197-81b5-b8ffd2befe0c.png"-->
  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/22438427/285618866-f2764aeb-797a-488d-bc9d-13c8b9357650.png"
- alt="Born To Learn & Grow" height="330rem" width="54%">
+ alt="Born To Learn & Grow" height="300rem" width="54%">
 </picture>
 </h1>
 
@@ -15,7 +15,7 @@
 
 👨‍💻 About me:
 
-- ⚡ I love **Systems Programming** and am interested in **Compiler Development**, **AI/ML**, **Linux Systems**, **Graphics Programming** and **WebAssembly**
+- ⚡ I love **Systems Programming** and am interested in **AI/ML**, **Compiler Development**, **Graphics Programming**  and **WebAssembly**
 - 🔭 Currently working on [**recblock**](https://github.com/Ultra-Code/recblock), [**network programming**](https://github.com/Ultra-Code/network_programming), [**kitwacc**](https://github.com/Ultra-Code/kitwacc) and [**modernc**](https://github.com/Ultra-Code/modernc)
 <!-- 
 - 🌱 I’m currently learning **Data Science** and **Cloud Computing**
@@ -26,8 +26,9 @@
  - 📄 Know about my experiences [rebrand.ly/BernardAssan](https://rebrand.ly/BernardAssan)
  -->
 - 👯 Looking to collaborate on **Zig**, **C**, **Rust**, **C++**, **Python** and **Lua** projects. 
-- 📫 Reach me [**_@themalpha_**](https://t.me/themalpha) on _telegram_, [**_@mega.alpha_**](https://discord.com/users/760132467931217921) on _discord_ and <img src="web icon.avif" alt="bernardassan.me" height="35"/> [website](https://rebrand.ly/BernardAssan)
-<!--- 🤔 I’m looking for help with learning and getting my hands dirty with some interesting **Rust** projects-->
+- 📫 Reach me [**_@themalpha_**](https://t.me/themalpha) on _telegram_ and [**_@mega.alpha_**](https://discord.com/users/760132467931217921) on _discord_
+<!--- and <img src="web icon.avif" alt="bernardassan.me" height="35"/> [website](https://rebrand.ly/BernardAssan)
+ 🤔 I’m looking for help with learning and getting my hands dirty with some interesting **Rust** projects-->
 <!-- original web icon image https://github-production-user-asset-6210df.s3.amazonaws.com/22438427/259840447-83e40bf1-07f0-4d59-b60e-ba0d085be735.png-->
 ## Connect with me
 
