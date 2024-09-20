@@ -9,7 +9,7 @@
 </h1>
 
 <h1 align="center"> Akwaaba 👋, I'm ✨ <i>Bernard Assan</i> ✨</h1>
-<h3 align="center">A passionate Systems Engineer</h3>
+<h3 align="center">A passionate Systems | ML Engineer</h3>
 
 <p align="center"> <a href="https://twitter.com/bernardassan" target="blank"><img src="https://img.shields.io/twitter/follow/bernardassan?logo=twitter&style=for-the-badge" alt="bernardassan" /></a> </p>
 
