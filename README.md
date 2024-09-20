@@ -17,7 +17,7 @@
 
 - ⚡ I love **Systems Programming** and am interested in **AI/ML**, **Compiler Development**, **Graphics Programming**  and **WebAssembly**
 - 🔭 Currently working on [**recblock**](https://github.com/Ultra-Code/recblock), [**network programming**](https://github.com/Ultra-Code/network_programming), [**kitwacc**](https://github.com/Ultra-Code/kitwacc) and [**modernc**](https://github.com/Ultra-Code/modernc)
-- 👯 Looking to collaborate on **Zig**, **C**, **Rust**, **C++**, **Python** and **Lua** projects. 
+- 👯 Looking to collaborate on **Zig**, **Rust**, **C++**,  **C**, **Python** and **Lua** projects. 
 - 📫 Reach me [**_@themalpha_**](https://t.me/themalpha) on _telegram_ and [**_@mega.alpha_**](https://discord.com/users/760132467931217921) on _discord_
 <!--
 - 🌱 I’m currently learning **Data Science** and **Cloud Computing**
@@ -43,7 +43,7 @@ original web icon image https://github-production-user-asset-6210df.s3.amazonaws
 
 ## 🛠️ Languages & Tools
 
-![My Skills](https://skillicons.dev/icons?i=zig,c,rust,cpp,python,lua,linux,bash,git,github,docker,gcp,mysql,mongodb,wasm)
+![My Skills](https://skillicons.dev/icons?i=zig,rust,cpp,c,python,lua,linux,bash,git,github,docker,gcp,mysql,mongodb,wasm)
 <!--<p align="left">
 <a href="https://ziglang.com/" target="_blank" rel="noreferrer"><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/22438427/259833635-2b7a3b75-32aa-4da4-a317-7c526c53a830.jpg" alt="zig" width="40" height="40"/>&nbsp;</a>
 <a href="https://isocpp.org/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/22438427/260244837-7d7b321f-7e90-4882-81f8-32f27a7d15b3.png" alt="C++" width="40" height="40"/>&nbsp</a>
