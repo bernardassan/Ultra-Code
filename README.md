@@ -15,7 +15,7 @@
 
 👨‍💻 About me:
 
-- ⚡ I love **Systems Programming** and am interested in **AI/ML**, **Compiler Development**, **Graphics Programming**  and **WebAssembly**
+- ⚡ I love **Systems Programming** and interested in **ML**, **Compiler Development**,  **Linux Systems**, and **Graphics Programming**
 - 🔭 Currently working on [**recblock**](https://github.com/Ultra-Code/recblock), [**network programming**](https://github.com/Ultra-Code/network_programming), [**kitwacc**](https://github.com/Ultra-Code/kitwacc) and [**modernc**](https://github.com/Ultra-Code/modernc)
 - 👯 Looking to collaborate on **Zig**, **Rust**, **C++**,  **C**, **Python** and **Lua** projects. 
 - 📫 Reach me [**_@themalpha_**](https://t.me/themalpha) on _telegram_ and [**_@mega.alpha_**](https://discord.com/users/760132467931217921) on _discord_
