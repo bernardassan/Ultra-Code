@@ -57,7 +57,20 @@ original web icon image https://github-production-user-asset-6210df.s3.amazonaws
 
 <!-- https://bobbyhadz.com/blog/github-display-images-side-by-side-in-readme -->
 <div style="display: flex; justify-content: center;" align="center">
- 
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github-readme-stats.vercel.app/api?username=Ultra-Code&show_icons=true&theme=dark"
+  />
+  <source
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    srcset="https://github-readme-stats.vercel.app/api?username=Ultra-Code&show_icons=true"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ultra-Code&show_icons=true" width="45%"/>
+</picture>
+</div>
+
+<div style="display: flex; justify-content: center;" align="center">
 <picture>
  <!-- alternative to top-langs https://githubtrends.io -->
   <source
@@ -69,20 +82,6 @@ original web icon image https://github-production-user-asset-6210df.s3.amazonaws
     srcset="https://github-readme-stats.vercel.app/api/top-langs?username=Ultra-Code&size_weight=0.5&count_weight=0.5&exclude_repo=datascience_exploration&hide=vue&layout=compact&langs_count=10&custom_title=Overall%20Language%20Statistics"
   />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ultra-Code&size_weight=0.5&count_weight=0.5&exclude_repo=datascience_exploration&hide=vue&layout=compact&langs_count=10&custom_title=Overall%20Language%20Statistics" width="45%"/>
-</picture>
-</div>
-
-<div style="display: flex; justify-content: center;" align="center">
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-stats.vercel.app/api?username=Ultra-Code&show_icons=true&theme=dark"
-  />
-  <source
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    srcset="https://github-readme-stats.vercel.app/api?username=Ultra-Code&show_icons=true"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=Ultra-Code&show_icons=true" width="45%"/>
 </picture>
 </div>
 
