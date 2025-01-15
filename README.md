@@ -9,13 +9,13 @@
 </h1>
 
 <h1 align="center"> Akwaaba 👋, I'm ✨ <i>Bernard Assan</i> ✨</h1>
-<h3 align="center">A Systems Software Engineer | ML Engineer</h3>
+<h3 align="center">Systems Software | Machine Learning | Linux Engineer</h3>
 
 <p align="center"> <a href="https://twitter.com/bernardassan" target="blank"><img src="https://img.shields.io/twitter/follow/bernardassan?logo=twitter&style=for-the-badge" alt="bernardassan" /></a> </p>
 
-👨‍💻 About me:
+👨‍💻 I'm a software engineer who loves **Systems Programming**, **Linux Systems** and **Project Management**:
 
-- ⚡ I love **Systems Programming** and interested in **ML**, **Compiler Development**,  **Linux Systems**, and **Graphics Programming**
+- ⚡ I am interested in **Machine Learning**, **Backend Engineering**, **Compiler Development**, and **Graphics & Network Programming**
 - 🔭 Currently working on [**recblock**](https://github.com/Ultra-Code/recblock), [**network programming**](https://github.com/Ultra-Code/network_programming), [**kitwacc**](https://github.com/Ultra-Code/kitwacc) and [**modernc**](https://github.com/Ultra-Code/modernc)
 - 👯 Looking to collaborate on **Zig**, **Rust**, **C++**,  **C**, **Python** and **Lua** projects. 
 - 📫 Reach me [**_@themalpha_**](https://t.me/themalpha) on _telegram_ and [**_@mega.alpha_**](https://discord.com/users/760132467931217921) on _discord_
@@ -57,7 +57,20 @@ original web icon image https://github-production-user-asset-6210df.s3.amazonaws
 
 <!-- https://bobbyhadz.com/blog/github-display-images-side-by-side-in-readme -->
 <div style="display: flex; justify-content: center;" align="center">
- 
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github-readme-stats.vercel.app/api?username=Ultra-Code&show_icons=true&theme=dark"
+  />
+  <source
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    srcset="https://github-readme-stats.vercel.app/api?username=Ultra-Code&show_icons=true"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ultra-Code&show_icons=true" width="45%"/>
+</picture>
+</div>
+
+<div style="display: flex; justify-content: center;" align="center">
 <picture>
  <!-- alternative to top-langs https://githubtrends.io -->
   <source
@@ -98,32 +111,5 @@ original web icon image https://github-production-user-asset-6210df.s3.amazonaws
   />
  
  <img align="center" src="https://api.githubtrends.io/user/svg/Ultra-Code/repos?time_range=six_months&group=other" alt="Repos stats" width="45%"/>
-</picture>
-</div>
- 
-<div style="display: flex; justify-content: space-around;">  
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-stats.vercel.app/api?username=Ultra-Code&show_icons=true&theme=dark"
-  />
-  <source
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    srcset="https://github-readme-stats.vercel.app/api?username=Ultra-Code&show_icons=true"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=Ultra-Code&show_icons=true" width="45%"/>
-</picture>
-
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-streak-stats.herokuapp.com/?user=ultra-code&theme=dark"
-  />
-  <source
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    srcset="https://github-readme-streak-stats.herokuapp.com/?user=ultra-code"
-  />
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=ultra-code" alt="ultra-code" width="47%"/>
 </picture>
 </div>
