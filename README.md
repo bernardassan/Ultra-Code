@@ -3,8 +3,7 @@
  <source srcset="born-to-learn.avif">
  <source srcset="born-to-learn.webp">
   <!--original image src="https://github-production-user-asset-6210df.s3.amazonaws.com/22438427/259785274-8ff0705a-65dd-4197-81b5-b8ffd2befe0c.png"-->
- <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/22438427/285618866-f2764aeb-797a-488d-bc9d-13c8b9357650.png"
- alt="Born To Learn & Grow" height="300rem" width="54%">
+ <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/22438427/285618866-f2764aeb-797a-488d-bc9d-13c8b9357650.png" alt="Born To Learn & Grow" width="54%">
 </picture>
 </h1>
 
@@ -53,7 +52,7 @@ original web icon image https://github-production-user-asset-6210df.s3.amazonaws
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-stats.vercel.app/api?username=bernardassan&show_icons=true&theme=dark&line_height=48"
+    srcset="https://github-readme-stats.vercel.app/api?username=bernardassan&show_icons=true&theme=dark"
   />
   <source
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
