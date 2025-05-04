@@ -44,48 +44,38 @@ original web icon image https://github-production-user-asset-6210df.s3.amazonaws
 ## 🛠️ Languages & Tools
 
 ![My Skills](https://skillicons.dev/icons?i=zig,rust,cpp,c,python,lua,linux,bash,git,github,docker,gcp,mysql,mongodb,wasm)
-<!--<p align="left">
-<a href="https://ziglang.com/" target="_blank" rel="noreferrer"><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/22438427/259833635-2b7a3b75-32aa-4da4-a317-7c526c53a830.jpg" alt="zig" width="40" height="40"/>&nbsp;</a>
-<a href="https://isocpp.org/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/22438427/260244837-7d7b321f-7e90-4882-81f8-32f27a7d15b3.png" alt="C++" width="40" height="40"/>&nbsp</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="python" width="40" height="40"/>&nbsp</a>
-<a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>&nbsp;</a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>&nbsp;</a>
-</p>
--->
+
 
 ## 🔥 Stats
 
-<!-- https://bobbyhadz.com/blog/github-display-images-side-by-side-in-readme -->
-<div style="display: flex; justify-content: center;" align="center">
+<!-- https://stackoverflow.com/questions/12090472/how-do-i-center-an-image-in-the-readme-md-file-on-github -->
+<div align="center">
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-stats.vercel.app/api?username=Ultra-Code&show_icons=true&theme=dark"
+    srcset="https://github-readme-stats.vercel.app/api?username=bernardassan&show_icons=true&theme=dark&line_height=48"
   />
   <source
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    srcset="https://github-readme-stats.vercel.app/api?username=Ultra-Code&show_icons=true"
+    srcset="https://github-readme-stats.vercel.app/api?username=bernardassan&show_icons=true"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=Ultra-Code&show_icons=true" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=bernardassan&show_icons=true" width="39%"/>
 </picture>
-</div>
 
-<div style="display: flex; justify-content: center;" align="center">
 <picture>
- <!-- alternative to top-langs https://githubtrends.io -->
   <source
    media="(prefers-color-scheme: dark)"
-   srcset="https://github-readme-stats.vercel.app/api/top-langs?username=Ultra-Code&size_weight=0.5&count_weight=0.5&exclude_repo=datascience_exploration&hide=vue&layout=compact&langs_count=10&theme=dark&custom_title=Overall%20Language%20Statistics"
+   srcset="https://github-readme-stats.vercel.app/api/top-langs?username=bernardassan&langs_count=10&layout=compact&size_weight=0.3&count_weight=0.7&theme=dark&custom_title=Overall%20Language%20Statistics"
   />
   <source
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=Ultra-Code&size_weight=0.5&count_weight=0.5&exclude_repo=datascience_exploration&hide=vue&layout=compact&langs_count=10&custom_title=Overall%20Language%20Statistics"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=bernardassan&langs_count=10&layout=compact&size_weight=0.3&count_weight=0.7&custom_title=Overall%20Language%20Statistics"
   />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ultra-Code&size_weight=0.5&count_weight=0.5&exclude_repo=datascience_exploration&hide=vue&layout=compact&langs_count=10&custom_title=Overall%20Language%20Statistics" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bernardassan&langs_count=10&layout=compact&size_weight=0.3&count_weight=0.7&custom_title=Overall%20Language%20Statistics" width="39%"/>
 </picture>
 </div>
 
-<div style="display: flex; justify-content: space-around;">  
+<div align="center">  
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -96,20 +86,20 @@ original web icon image https://github-production-user-asset-6210df.s3.amazonaws
     srcset="https://api.githubtrends.io/user/svg/Ultra-Code/langs?time_range=six_months&theme=classic"
   />
 
-  <img align="center" src="https://api.githubtrends.io/user/svg/Ultra-Code/langs?time_range=six_months" alt="Language stats" width="45%"/>
+  <img align="center" src="https://api.githubtrends.io/user/svg/Ultra-Code/langs?time_range=six_months" alt="Language stats" width="39%"/>
 </picture>
 
 
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://api.githubtrends.io/user/svg/Ultra-Code/repos?time_range=six_months&group=other&theme=dark"
+    srcset="https://api.githubtrends.io/user/svg/Ultra-Code/repos?time_range=six_months&theme=dark"
   />
   <source
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    srcset="https://api.githubtrends.io/user/svg/Ultra-Code/repos?time_range=six_months&group=other&theme=classic"
+    srcset="https://api.githubtrends.io/user/svg/Ultra-Code/repos?time_range=six_months&theme=classic"
   />
  
- <img align="center" src="https://api.githubtrends.io/user/svg/Ultra-Code/repos?time_range=six_months&group=other" alt="Repos stats" width="45%"/>
+ <img align="center" src="https://api.githubtrends.io/user/svg/Ultra-Code/repos?time_range=six_months" alt="Repository stats" width="39%"/>
 </picture>
 </div>
