@@ -15,7 +15,7 @@
 👨‍💻 I'm a software engineer who loves **Systems Programming**, **Linux Systems** and **Project Management**:
 
 - ⚡ I am interested in **Machine Learning**, **Backend Engineering**, **Compiler Development**, and **Graphics & Network Programming**
-- 🔭 Currently working on [**recblock**](https://github.com/Ultra-Code/recblock), [**network programming**](https://github.com/Ultra-Code/network_programming), [**kitwacc**](https://github.com/Ultra-Code/kitwacc) and [**modernc**](https://github.com/Ultra-Code/modernc)
+- 🔭 Currently working on [**Imagination**](https://github.com/bernardassan/imagination), [**Zvips**](https://github.com/bernardassan/zvips), [**Recblock**](https://github.com/bernardassan/recblock), and [**ModernC**](https://github.com/bernardassan/modernc)
 - 👯 Looking to collaborate on **Zig**, **Rust**, **C++**,  **C**, **Python** and **Lua** projects. 
 - 📫 Reach me [**_@themalpha_**](https://t.me/themalpha) on _telegram_ and [**_@mega.alpha_**](https://discord.com/users/760132467931217921) on _discord_
 <!--
